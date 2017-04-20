@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
-//first comment line
-//second comment line
+
 namespace GetAllGetOne.Controllers
 {
     public class CustomerAdd
